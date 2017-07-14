@@ -1,5 +1,8 @@
 {
   "sessions": [
-
+    {
+      "author": "Richard",
+      "title": "Wie macht man ein Session Tool über Github?"
+    }
   ]
 }
